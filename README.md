@@ -11,7 +11,7 @@ snhwang@alum.mit.edu
 
   This project uitlized the [Reacher](https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Learning-Environment-Examples.md#reacher) environment. In this environment, an agent, represented by a double-jointed arm, moves its "hand" to target locations. The figure below shows a clip of 10 agents following their targets (green balls) with their hands (small blue balls). The agent must control its joints to maintain its hand at the target. A reward of +0.1 is provided for each step that the agent's hand is in the target location. Thus, the goal of each agent is to maintain its position at the target location for as many time steps as possible.
 
-![](.\reacher.gif)
+![](reacher.gif)
 
 ​					Taken from the Udacity project introduction page
 
